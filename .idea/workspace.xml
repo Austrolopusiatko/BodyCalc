@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4979dd94-8b28-4521-9e54-ff336f8b55db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vwmf2zMAgcLirsKtynN2EprC13" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Spring and first project/CRM hybernate" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\bmiapp\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.App">
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_231" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="pl.slawomirsobkowiak.bodycalc.App" />
+      <module name="BodyCalc1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.janmikolajczak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="BodyCalc1.0" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="BodyCalc1.0" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Bodycalc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.slawomirsobkowiak.bodycalc.App" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_231" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Person" />
+      <item itemvalue="Spring Boot.App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Person" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4979dd94-8b28-4521-9e54-ff336f8b55db" name="Default Changelist" comment="" />
+      <created>1574625464660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574625464660</updated>
+      <workItem from="1578172633340" duration="409000" />
+      <workItem from="1578173062286" duration="759000" />
+      <workItem from="1578319468454" duration="4573000" />
+      <workItem from="1578324089875" duration="51000" />
+      <workItem from="1578324287934" duration="298000" />
+      <workItem from="1578931206020" duration="956000" />
+      <workItem from="1578932348372" duration="877000" />
+      <workItem from="1578933281192" duration="3953000" />
+      <workItem from="1578938117277" duration="6154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1006" y="357" width="697" height="745" key="#App" timestamp="1578933572535">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1006" y="357" width="697" height="745" key="#App/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578933572535" />
+    <state x="872" y="366" key="#Project_Structure" timestamp="1578172741378">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="872" y="366" key="#Project_Structure/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578172741378" />
+    <state x="734" y="362" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578933134109">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="734" y="362" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578933134109" />
+    <state x="1060" y="462" width="953" height="829" key="FileChooserDialogImpl" timestamp="1578941122542">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="-984" y="334" key="FileChooserDialogImpl/0.0.2560.1410/-1680.0.1680.1020@-1680.0.1680.1020" timestamp="1578324137791" />
+    <state x="1060" y="462" width="953" height="829" key="FileChooserDialogImpl/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578941122542" />
+    <state width="2517" height="393" key="GridCell.Tab.0.bottom" timestamp="1578944276758">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1637" height="488" key="GridCell.Tab.0.bottom/0.0.2560.1410/-1680.0.1680.1020@-1680.0.1680.1020" timestamp="1578324586276" />
+    <state width="2517" height="393" key="GridCell.Tab.0.bottom/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578944276758" />
+    <state width="2517" height="393" key="GridCell.Tab.0.center" timestamp="1578944276758">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1637" height="488" key="GridCell.Tab.0.center/0.0.2560.1410/-1680.0.1680.1020@-1680.0.1680.1020" timestamp="1578324586276" />
+    <state width="2517" height="393" key="GridCell.Tab.0.center/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578944276758" />
+    <state width="2517" height="393" key="GridCell.Tab.0.left" timestamp="1578944276758">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1637" height="488" key="GridCell.Tab.0.left/0.0.2560.1410/-1680.0.1680.1020@-1680.0.1680.1020" timestamp="1578324586276" />
+    <state width="2517" height="393" key="GridCell.Tab.0.left/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578944276758" />
+    <state width="2517" height="393" key="GridCell.Tab.0.right" timestamp="1578944276758">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1637" height="488" key="GridCell.Tab.0.right/0.0.2560.1410/-1680.0.1680.1020@-1680.0.1680.1020" timestamp="1578324586276" />
+    <state width="2517" height="393" key="GridCell.Tab.0.right/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578944276758" />
+    <state width="2517" height="393" key="GridCell.Tab.1.bottom" timestamp="1578944276759">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="393" key="GridCell.Tab.1.bottom/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578944276759" />
+    <state width="2517" height="393" key="GridCell.Tab.1.center" timestamp="1578944276758">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="393" key="GridCell.Tab.1.center/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578944276758" />
+    <state width="2517" height="393" key="GridCell.Tab.1.left" timestamp="1578944276758">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="393" key="GridCell.Tab.1.left/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578944276758" />
+    <state width="2517" height="393" key="GridCell.Tab.1.right" timestamp="1578944276758">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="393" key="GridCell.Tab.1.right/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578944276758" />
+    <state width="2517" height="495" key="GridCell.Tab.2.bottom" timestamp="1578938097402">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="495" key="GridCell.Tab.2.bottom/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578938097402" />
+    <state width="2517" height="495" key="GridCell.Tab.2.center" timestamp="1578938097402">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="495" key="GridCell.Tab.2.center/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578938097402" />
+    <state width="2517" height="495" key="GridCell.Tab.2.left" timestamp="1578938097402">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="495" key="GridCell.Tab.2.left/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578938097402" />
+    <state width="2517" height="495" key="GridCell.Tab.2.right" timestamp="1578938097402">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="495" key="GridCell.Tab.2.right/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578938097402" />
+    <state x="783" y="350" key="SettingsEditor" timestamp="1578932618711">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="783" y="350" key="SettingsEditor/0.0.2560.1410/-1680.0.1680.1020@0.0.2560.1410" timestamp="1578932618711" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bmi_calculator_newfeature$App.ic" NAME="App Coverage Results" MODIFIED="1578172836193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.janmikolajczak.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+#menu {
+    position: fixed;
+    right: 0;
+    top: 50%;
+    width: 8em;
+    margin-top: -2.5em;
+
+}
+
+
+.menu-button {
+    display: block;
+    text-align: center;
+
+    height: 35px;
+    border: 1px solid black;
+    margin: 1px;
+    font-size: 18px;
+
+}
+
+#header {
+    text-align: center;
+    font-size: 24px;
+}
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
